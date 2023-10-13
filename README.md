@@ -1,2 +1,2 @@
-# Shoppee
-Shoppee Demo
+# Shopee
+Shopee Demo
